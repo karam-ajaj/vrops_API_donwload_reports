@@ -1,15 +1,15 @@
 # vrops_API_donwload_reports
 C# application for working with vrops API
 
-all static constants are defined in the file "Constants/RequestConstants.cs"
+All static constants are defined in the file "Constants/RequestConstants.cs"
 
 
-on the vrops side, the following must be configured:
-1. a red_only user (this needs to be changed)
+On the vrops side, the following must be configured:
+1. a read_only user (this needs to be changed)
 2. a scheduled a report to be generated and ready to be downloaded
 
 
-this app will do the following:
+This app will do the following:
 1. make the first get request to vrops restful API using the required headers
 2. change dates to English and create current month and year variables
 3. get the JSON response and parse it to dynamic data variable
