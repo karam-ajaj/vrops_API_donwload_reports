@@ -6,7 +6,7 @@
         public const string UrlPublic = "https://vrops/suite-api/doc/v2/api-docs?group=Public%20APIs";
         public const string UrlGetReport = "https://vrops/suite-api/api/reports";
         public const string APIUrl = "https://vrops/suite-api/api";
-        public const string ReportDefinitionId = "fed8c884-1c8a-4bc3-9c22-058f5cb53b14";
+        public const string ReportDefinitionId = "ReportDefinitionId";
         public const string UrlGetReportDefinitionId = APIUrl + "/reportdefinitions/" + ReportDefinitionId + "/schedules";
         public const string path = @"D:\example_location\vrops_API_donwload_reports\downloads\report.csv";
         public const string usernName = "user";
