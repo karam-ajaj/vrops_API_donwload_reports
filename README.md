@@ -1,8 +1,7 @@
 # vrops_API_donwload_reports
 C# application for working with vrops API
 
-All static constants are defined in the file "Constants/RequestConstants.cs"
-/file:Constants/RequestConstants.cs
+All static constants are defined in the file [RequestConstants.cs](https://github.com/karam-ajaj/vrops_API_donwload_reports/blob/22fe550baf5878160617844aacf6b3220859b67b/Constants/RequestConstants.cs).
 
 
 On the vrops side, the following must be configured:
